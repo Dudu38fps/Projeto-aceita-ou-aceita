@@ -12,6 +12,6 @@
 });
 
 function eventoDeClique() {
-    window.location.href = "https://www.youtube.com/shorts/TMYBABz563U";
+    window.location.href = "https://www.youtube.com/shorts/c6Cu5-aqWCM";
     
 }
